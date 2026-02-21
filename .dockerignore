@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+*.jar
+*.war
+
+# IDE configuration
+.idea/
+.settings/
+.classpath
+.project
+.vscode/
+
+# Git
+.git/
+.gitignore
+
+# Others
+*.log
+.mvn/
+.DS_Store
+.env
